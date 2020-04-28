@@ -16,6 +16,7 @@ public class HelloTeam {
 		System.out.println("Blake Shin");
 		System.out.println("Jaiveer Singh");
 		System.out.println("Minhtam Cao");
+		System.out.println("Sabrina Pan");
 	}
 
 }
