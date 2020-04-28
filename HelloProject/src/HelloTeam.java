@@ -12,11 +12,12 @@ public class HelloTeam {
 		System.out.println("Brian Zhao");
 		System.out.println("Tarang Lunawat");
 		System.out.println("Ben Marty");
-		System.out.println("Aaron Ahmed");
+		Sysmte.out.println("Aaron Ahmed");
 		System.out.println("Blake Shin");
 		System.out.println("Jaiveer Singh");
 		System.out.println("Minhtam Cao");
 		System.out.println("Sabrina Pan");
+		System.out.println("Chantal Wang");
 	}
 
 }
